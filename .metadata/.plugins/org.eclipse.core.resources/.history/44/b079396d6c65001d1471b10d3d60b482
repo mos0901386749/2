@@ -1,0 +1,10 @@
+
+public class Generous implements BonusCalculator {
+
+	@Override
+	public double computerBonus(double wage) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
